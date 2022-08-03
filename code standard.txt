@@ -1,0 +1,20 @@
+->MVVM
+  repositories, viewmodels
+-> view binding
+-> strings in strings file
+-> di
+-> styles for widgets like text, edittext
+-> colors in colord file
+-> demen padding
+-> recycler view diff util
+
+
+
+api
+https://v4cstaging.in/vfast/app/restapi.php?token=Y2F0ZWdvcnk=
+
+json to pojo: https://www.jsonschema2pojo.org/
+
+json formatter: https://jsonformatter.curiousconcept.com/
+
+json viewer: https://jsonformatter.org/
